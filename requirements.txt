@@ -1,0 +1,8 @@
+flask>=3.0
+python-dotenv>=1.0
+psycopg2-binary>=2.9
+openai>=1.30
+pdfplumber>=0.11
+langchain-text-splitters>=0.2
+sentence-transformers>=3.0
+pgvector>=0.3
