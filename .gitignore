@@ -1,1 +1,25 @@
+# PyCharm / JetBrains IDEs
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Variáveis de ambiente
 .env
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
