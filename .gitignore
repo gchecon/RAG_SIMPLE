@@ -1,5 +1,5 @@
 # PyCharm / JetBrains IDEs
-.idea/
+.idea/*
 *.iml
 
 # Python
